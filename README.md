@@ -1,2 +1,9 @@
 activate the environment, by typing this command:
-.\myworld\Scripts\activate.bat 
+
+
+
+Windows:
+myworld\Scripts\activate.bat
+
+Unix/MacOS:
+source myworld/bin/activate
